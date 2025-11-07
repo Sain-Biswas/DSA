@@ -4,5 +4,6 @@
   "monospaceFontFamily": "Recursive Sans Casual Static",
   "baseFontSizeAction": true,
   "cssTheme": "Minimal",
-  "accentColor": "#f99aa2"
+  "accentColor": "#f99aa2",
+  "baseFontSize": 20
 }

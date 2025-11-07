@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9916c611444f47fd",
+        "id": "d40c566229f0feb6",
         "type": "tabs",
         "children": [
           {
-            "id": "b171afe7d596a922",
+            "id": "c3295f3e91742826",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sorting Techniques/Sorting Techniques.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Sorting Techniques"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sorting Techniques/Sorting Techniques.md",
+                "file": "Sorting Techniques/Bubble Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sorting Techniques"
+              "title": "Backlinks for Bubble Sort"
             }
           },
           {
@@ -113,12 +109,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sorting Techniques/Sorting Techniques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Sorting Techniques"
+              "title": "Outgoing links"
             }
           },
           {
@@ -142,17 +137,26 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sorting Techniques/Sorting Techniques.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sorting Techniques"
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "b38b6065c15ed251",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -170,11 +174,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bec9e332e7548154",
+  "active": "b38b6065c15ed251",
   "lastOpenFiles": [
-    "Sorting Techniques/Merge Sort.md",
+    "Untitled.canvas",
+    "Sorting Techniques/Bubble Sort.md",
     "Sorting Techniques/Sorting Techniques.md",
     "README.md",
+    "Sorting Techniques/Merge Sort.md",
     "Sorting Techniques/Radix Sort.md",
     "Sorting Techniques/Selection Sort.md",
     "Sorting Techniques/Bucket Sort.md",
@@ -182,7 +188,6 @@
     "Sorting Techniques/Heap Sort.md",
     "Sorting Techniques/Quick Sort.md",
     "Sorting Techniques/Insertion Sort.md",
-    "Sorting Techniques/Bubble Sort.md",
     "Temporary/Selection Sort.md",
     "Temporary/Untitled.md",
     "Welcome.md",
