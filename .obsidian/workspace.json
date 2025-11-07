@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d40c566229f0feb6",
+        "id": "b20790b5929f6399",
         "type": "tabs",
         "children": [
           {
-            "id": "c3295f3e91742826",
+            "id": "37cbd4976aea4332",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:sorting",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sorting Techniques/Bubble Sort.md",
+                "file": "Temporary/Untitled 1.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Bubble Sort"
+              "title": "Backlinks for Untitled 1"
             }
           },
           {
@@ -109,11 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Temporary/Untitled 1.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Untitled 1"
             }
           },
           {
@@ -122,8 +123,8 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
+                "sortOrder": "alphabetical",
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -137,12 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Temporary/Untitled 1.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Untitled 1"
             }
           },
           {
@@ -176,18 +178,20 @@
   },
   "active": "b38b6065c15ed251",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Sorting Techniques/Bubble Sort.md",
+    "Temporary/Untitled 1.base",
+    "Temporary/Untitled.base",
     "Sorting Techniques/Sorting Techniques.md",
-    "README.md",
     "Sorting Techniques/Merge Sort.md",
-    "Sorting Techniques/Radix Sort.md",
-    "Sorting Techniques/Selection Sort.md",
-    "Sorting Techniques/Bucket Sort.md",
-    "Sorting Techniques/Counting Sort.md",
     "Sorting Techniques/Heap Sort.md",
+    "Sorting Techniques/Counting Sort.md",
+    "Sorting Techniques/Bucket Sort.md",
+    "Sorting Techniques/Bubble Sort.md",
+    "Sorting Techniques/Selection Sort.md",
+    "Sorting Techniques/Radix Sort.md",
     "Sorting Techniques/Quick Sort.md",
     "Sorting Techniques/Insertion Sort.md",
+    "Untitled.canvas",
+    "README.md",
     "Temporary/Selection Sort.md",
     "Temporary/Untitled.md",
     "Welcome.md",
@@ -198,8 +202,6 @@
     "Graphs",
     "Binary Search Trees",
     "Binary Trees",
-    "Greedy Algorithms",
-    "Heaps",
-    "Sliding Window and Two Pointer"
+    "Greedy Algorithms"
   ]
 }

@@ -1,3 +1,5 @@
+## Algorithms in this Section
+
 - [ ] [[Selection Sort]]
 - [ ] [[Bubble Sort]]
 - [ ] [[Insertion Sort]]
