@@ -7,7 +7,7 @@ This vault is a structured knowledge base designed to help you `learn`, `revise`
 ## Topics
 
 - [ ] Basics and Math
-- [ ] Sorting Techniques
+- [/] [[Sorting Techniques]]
 - [ ] Array
 - [ ] Binary Search
 - [ ] Strings
@@ -28,7 +28,7 @@ This vault is a structured knowledge base designed to help you `learn`, `revise`
 
 #### Legend
 - [ ] Not completed
-- [-] In Progress
+- [/] In Progress
 - [x] Completed
 
 ---

@@ -1,1 +1,8 @@
-{}
+{
+  "interfaceFontFamily": "Recursive Sans Casual Static",
+  "textFontFamily": "Recursive Sans Casual Static",
+  "monospaceFontFamily": "Recursive Sans Casual Static",
+  "baseFontSizeAction": true,
+  "cssTheme": "Minimal",
+  "accentColor": "#f99aa2"
+}

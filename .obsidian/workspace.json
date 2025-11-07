@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "678d05e082771a99",
+        "id": "9916c611444f47fd",
         "type": "tabs",
         "children": [
           {
-            "id": "e145ea79721cdaf4",
+            "id": "b171afe7d596a922",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Sorting Techniques/Sorting Techniques.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Sorting Techniques"
             }
           }
         ]
@@ -90,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Sorting Techniques/Sorting Techniques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Sorting Techniques"
             }
           },
           {
@@ -109,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Sorting Techniques/Sorting Techniques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from Sorting Techniques"
             }
           },
           {
@@ -138,21 +142,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Sorting Techniques/Sorting Techniques.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Sorting Techniques"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,12 +166,27 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e145ea79721cdaf4",
+  "active": "bec9e332e7548154",
   "lastOpenFiles": [
+    "Sorting Techniques/Merge Sort.md",
+    "Sorting Techniques/Sorting Techniques.md",
     "README.md",
+    "Sorting Techniques/Radix Sort.md",
+    "Sorting Techniques/Selection Sort.md",
+    "Sorting Techniques/Bucket Sort.md",
+    "Sorting Techniques/Counting Sort.md",
+    "Sorting Techniques/Heap Sort.md",
+    "Sorting Techniques/Quick Sort.md",
+    "Sorting Techniques/Insertion Sort.md",
+    "Sorting Techniques/Bubble Sort.md",
+    "Temporary/Selection Sort.md",
+    "Temporary/Untitled.md",
+    "Welcome.md",
+    "Temporary",
     "C++ Fundamentals",
     "Tries",
     "Dynamic Programming",
@@ -176,8 +195,6 @@
     "Binary Trees",
     "Greedy Algorithms",
     "Heaps",
-    "Sliding Window and Two Pointer",
-    "Stack and Queues",
-    "Welcome.md"
+    "Sliding Window and Two Pointer"
   ]
 }
